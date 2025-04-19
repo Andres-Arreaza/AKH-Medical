@@ -22,7 +22,7 @@ const DoctorMedicalHistories = () => {
     }, [doctorId]);
 
     const goBack = () => {
-        navigate(-1); 
+        navigate(-1);
     };
 
     return (
